@@ -1,4 +1,6 @@
 Sales Forecasting using Temporal Fusion Transformer (TFT)
+
+
 📌 Overview
 This project implements a Temporal Fusion Transformer (TFT) model to forecast weekly retail sales and provide actionable inventory management insights. The goal is to help businesses make data-driven decisions for stocking, procurement, and cost optimization.
 
