@@ -62,7 +62,7 @@ Evaluation
 
 Metrics: Mean Absolute Percentage Error (MAPE), RMSE, R².
 
-Compare against baseline models (ARIMA, Prophet, LSTM).
+Compare against baseline models (ARIMA, SARIMAX, KNN, Linear Regression).
 
 Insights & Inventory Planning
 
